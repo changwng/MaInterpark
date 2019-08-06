@@ -1,0 +1,8 @@
+##http://www.riverbankcomputing.co.uk/software/pyqt/download
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4
+
+pip install PyQt4-4.11.4-cp36-cp36m-win_amd64.whl
+pip install image 
+
+qt creator ∞Ë¡§
+changw
